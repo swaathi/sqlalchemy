@@ -198,4 +198,4 @@ def notes(self):
 
 ## Where's the code?
 
-You can find all of the code I used in this article on my Github repository.
+You can find all of the code I used in this article on [my Github repository](https://github.com/swaathi/sqlalchemy).
